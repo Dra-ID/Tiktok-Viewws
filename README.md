@@ -1,4 +1,9 @@
 # Tiktok-Viewws
+<div align="center">
+  <img src="Data/images.png">
+  <br>
+  <br>
+  
 Script Untuk Menambah Views/Tontonan 😘
 
 # Install Bahan
