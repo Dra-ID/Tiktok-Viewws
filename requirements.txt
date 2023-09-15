@@ -1,6 +1,7 @@
 requests
 rich
-BeautifulSoup
 colorama
 datetime
 pystyle
+BeautifulSoup4
+bs4
